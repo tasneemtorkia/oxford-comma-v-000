@@ -9,7 +9,3 @@ else array.length == 3
 end 
 end
 end 
-
-array.length > 3
-  array[-1] << " and "
-  array.join(", ")
