@@ -7,3 +7,4 @@ else array.length == 3
   aarray[-1].insert(0, "and ")
 end 
 end
+end 
